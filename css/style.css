@@ -1,0 +1,19 @@
+h1 {
+    font-size: large;
+    color: burlywood;
+}
+
+p {
+    font-weight: bold;
+    text-align: left;
+    padding-left: 1em;
+}
+
+body {
+    color: brown;
+}
+
+#result
+{
+    font-weight: bold;
+}
